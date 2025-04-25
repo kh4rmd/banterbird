@@ -1,0 +1,31 @@
+#top {
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Dancing Script', cursive;
+    border: 5px solid rgb(162, 132, 132);
+    animation: flash 1s infinite;
+}
+
+/* Example for Flashing Box around Button (Replace #yourButtonId) */
+#but {
+    padding: 10px 20px;
+    background-color: #e50914;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    border: 3px solid red;
+    animation: flash 1.5s infinite;
+}
+
+body {
+    font-family: 'Pacifico', cursive;
+    background-color: #0f32df;
+    padding: 20px;
+}
+
+#feed {
+    margin-top: 20px;
+    font-family: 'Pacifico', cursive;
+}
